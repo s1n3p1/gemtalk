@@ -1,0 +1,5 @@
+data/
+workspaces/
+node_modules/
+.env
+*.log
